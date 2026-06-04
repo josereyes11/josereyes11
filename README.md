@@ -1,4 +1,4 @@
-<img width="1883" height="889" alt="PXL_20251121_141306784 NIGHT" src="https://github.com/user-attachments/assets/80e95e05-ab4c-4253-bb85-1754f5863d6a" />
+<img width="4000" height="1229" alt="header GitHub" src="https://github.com/user-attachments/assets/f52f2d3d-ba13-4ebe-a4b9-9b371a563896" />
 
 # Hi, I'm Jose #
 ## a product designer with 6+ years in the German startup world, now learning to build the things I used to only design. ##
