@@ -1,3 +1,5 @@
+<img width="6016" height="1557" alt="header git hub" src="https://github.com/user-attachments/assets/7f9bfd4e-031b-40d6-9267-8c39b1fd017d" />
+
 # Hi, I'm Jose #
 ## a product designer with 6+ years in the German startup world, now learning to build the things I used to only design. ##
 
