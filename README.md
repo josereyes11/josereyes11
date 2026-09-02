@@ -15,4 +15,4 @@ These days I'm exploring the space where design and frontend development overlap
 Currently in a web development bootcamp, working my way through JavaScript, React and more.
 If you're building something at the intersection of design systems, AI interfaces, or developer tooling, I'd love to connect.
 
-Check out my personal [website] (https://josereyes.design/) and [Behance](https://www.behance.net/joseluisreyes) too.
+Check out my personal [website](https://josereyes.design/) and [Behance](https://www.behance.net/joseluisreyes) too.
